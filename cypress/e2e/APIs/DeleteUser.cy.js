@@ -1,7 +1,7 @@
  describe('Delete a User', () =>{
     it('Delete user',()=>{
         var user1 = {
-            "name": "Samantha",
+            "name": "Hamza Shahbaz",
             "job": "DevOps"
         }
 

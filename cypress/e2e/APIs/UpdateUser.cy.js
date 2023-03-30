@@ -1,7 +1,7 @@
  describe('Update User', ()=> {
     it('Ùpdate user',()=>{
         var user1 = {
-            "name": "Samantha",
+            "name": "Hamza Shahbaz",
             "job": "DevOps"
         }
 
